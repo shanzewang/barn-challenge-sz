@@ -1,0 +1,12 @@
+scipy==1.4.1
+gym==0.17.3
+GPUtil>=1.4.0
+defusedxml>=0.6.0
+rospkg>=1.2.8
+netifaces>=0.10.9
+tensorboardX>=2.2
+transformers==4.11
+torch==2.2.1+cu118
+torchaudio==2.2.1+cu118
+torchvision==0.17.1+cu118
+spython
