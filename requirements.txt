@@ -6,9 +6,9 @@ rospkg>=1.2.8
 netifaces>=0.10.9
 tensorboardX>=2.2
 transformers==4.11
-torch>=2.2.1
-torchaudio==2.2.1
-torchvision==0.17.1
+torch==2.1.0 
+torchvision==0.16.0 
+torchaudio==2.1.0
 protobuf
 spython
 catkin-pkg
